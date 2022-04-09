@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning web development using html,css and javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
--                 gmail - animon_@gmail.com
+-                 gmail - animon7002@gmail.com
+-                 
 
 <!---
 Abiaadhi/Abiaadhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
